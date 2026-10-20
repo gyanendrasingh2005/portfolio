@@ -95,16 +95,9 @@ export const ProblemSolving: React.FC = () => {
                 className="p-6 bg-[#080808] border border-[rgba(241,238,232,0.1)] rounded-lg flex flex-col sm:flex-row sm:items-center justify-between gap-4 hover:border-[rgba(241,238,232,0.25)] transition-colors"
               >
                 <div className="space-y-1">
-                  <div className="flex items-center gap-2.5">
-                    <h3 className="font-serif text-2xl text-[#f1eee8] font-normal">
-                      {platform.name}
-                    </h3>
-                    {platform.username && (
-                      <span className="font-mono text-[10px] text-[#ff8c59]">
-                        [{platform.username}]
-                      </span>
-                    )}
-                  </div>
+                  <h3 className="font-serif text-2xl text-[#f1eee8] font-normal">
+                    {platform.name}
+                  </h3>
                   <p className="font-sans text-xs text-[#aaa9a4]">
                     {platform.description}
                   </p>
