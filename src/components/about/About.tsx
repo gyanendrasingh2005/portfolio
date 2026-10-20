@@ -26,40 +26,6 @@ export const About: React.FC = () => {
                   className="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-[1.03]"
                   loading="eager"
                 />
-
-                {/* Subtle Editorial Gradient Overlay */}
-                <div className="absolute inset-0 bg-gradient-to-t from-[#080808] via-transparent to-transparent opacity-85 pointer-events-none" />
-
-                {/* Top Corner Status Indicator */}
-                <div className="absolute top-4 left-4 z-10 flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#030303cc] backdrop-blur-md border border-[rgba(241,238,232,0.15)] font-mono text-[10px] text-[#dedad4]">
-                  <span className="w-2 h-2 rounded-full bg-[#22c55e] animate-pulse" />
-                  <span>AVAILABLE FOR ROLES</span>
-                </div>
-
-                {/* Top Right Monogram Tag */}
-                <div className="absolute top-4 right-4 z-10 font-mono text-[10px] px-2.5 py-1 rounded bg-[#030303cc] backdrop-blur-md border border-[rgba(241,238,232,0.12)] text-[#ff8c59]">
-                  GS.
-                </div>
-
-                {/* Bottom Caption Overlay */}
-                <div className="absolute bottom-4 left-4 right-4 z-10 p-3.5 rounded-lg bg-[#030303e6] backdrop-blur-md border border-[rgba(241,238,232,0.12)] flex items-center justify-between">
-                  <div>
-                    <span className="font-serif text-lg text-[#f1eee8] block leading-tight">
-                      Gyanendra Singh
-                    </span>
-                    <span className="font-mono text-[10px] text-[#aaa9a4] uppercase tracking-wider block mt-0.5">
-                      Ghaziabad, Uttar Pradesh
-                    </span>
-                  </div>
-                  <div className="text-right">
-                    <span className="font-mono text-[10px] text-[#ff8c59] uppercase tracking-wider block font-semibold">
-                      KIET IT '27
-                    </span>
-                    <span className="font-mono text-[9px] text-[#787570] block">
-                      CGPA: 8.1
-                    </span>
-                  </div>
-                </div>
               </div>
             </div>
           </div>
