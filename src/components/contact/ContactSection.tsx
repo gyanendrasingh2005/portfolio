@@ -8,6 +8,7 @@ export const ContactSection: React.FC = () => {
     supportingText,
     primaryCta,
     contactMethods,
+    channels,
   } = CONTACT_DATA;
 
   const [showResumeModal, setShowResumeModal] = useState(false);
@@ -123,6 +124,22 @@ export const ContactSection: React.FC = () => {
                 <span className="text-[11px] font-mono text-[#787570]">↗</span>
               </span>
             </a>
+          ))}
+        </div>
+
+        {/* Social Platforms Row */}
+        <div className="pt-4 flex flex-wrap items-center gap-6 font-mono text-xs text-[#aaa9a4]">
+          <span className="text-[#787570] uppercase tracking-wider text-[11px]">
+            NETWORK //
+          </span>
+          {channels.map((ch) => (
+            <span
+              key={ch.label}
+              className="flex items-center gap-1.5"
+            >
+              <span className="text-[#dedad4] font-medium">{ch.label}:</span>
+              <span className="text-[#aaa9a4]">{ch.value}</span>
+            </span>
           ))}
         </div>
       </div>

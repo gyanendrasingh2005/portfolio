@@ -102,8 +102,8 @@ export const PROBLEM_SOLVING_DATA: ProblemSolvingData = {
       index: '01',
       name: 'LeetCode',
       category: 'Data Structures & Algorithmic Patterns',
-      username: 'gyanendrasingh2005',
-      profileUrl: 'https://leetcode.com/u/gyanendrasingh2005/',
+      username: 'Gyanendra__singh',
+      profileUrl: 'https://leetcode.com/u/Gyanendra__singh/',
       isConfigured: true,
       hasPublicAccount: true,
       verifiedMetric: {
@@ -120,8 +120,8 @@ export const PROBLEM_SOLVING_DATA: ProblemSolvingData = {
       index: '02',
       name: 'Codeforces',
       category: 'Competitive Programming & Time-Constrained Contests',
-      username: 'gyanendrasingh2005',
-      profileUrl: 'https://codeforces.com/profile/gyanendrasingh2005',
+      username: 'Gyanendra2005gs',
+      profileUrl: 'https://codeforces.com/profile/Gyanendra2005gs',
       isConfigured: true,
       hasPublicAccount: true,
       verifiedMetric: {
@@ -138,8 +138,8 @@ export const PROBLEM_SOLVING_DATA: ProblemSolvingData = {
       index: '03',
       name: 'GeeksforGeeks',
       category: 'Language Proficiency & Problem Solving',
-      username: 'gyanendrasingh2005',
-      profileUrl: 'https://www.geeksforgeeks.org/user/gyanendrasingh2005/',
+      username: 'gyanendrsingh',
+      profileUrl: 'https://www.geeksforgeeks.org/profile/gyanendrsingh',
       isConfigured: true,
       hasPublicAccount: true,
       verifiedMetric: {

@@ -138,16 +138,6 @@ export const CONTACT_DATA: ContactData = {
       value: '+91-9555694252',
       detail: 'Direct calling line',
     },
-    {
-      label: 'Twitter / X',
-      value: '@GyanendraS94971',
-      detail: 'Tech thoughts & updates',
-    },
-    {
-      label: 'Instagram',
-      value: '@gyanendra_singh__18',
-      detail: 'Personal updates & design',
-    },
   ],
   monogram: {
     letters: 'GS.',
