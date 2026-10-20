@@ -63,21 +63,22 @@ export const LEADERSHIP_DATA: LeadershipData = {
     name: "KIET Koders Korner",
     acronym: 'K3',
     institution: 'KIET Group of Institutions, Ghaziabad',
-    role: 'Problem Setter & Student Mentor',
+    role: 'President',
     type: 'Collegiate Competitive Programming & Technical Community',
     summary:
       'Directing collegiate algorithmic culture, orchestrating national ICPC-style coding contests, and mentoring peer engineers through structured competitive programming roadmaps.',
     responsibilities: [
+      'Presiding over KIET Koders Korner (K3), directing collegiate algorithmic culture, workshops, and competitive initiatives.',
       'Mentored 50+ students through 10+ DSA/C++ workshops covering data structures, algorithms, competitive programming, and interview preparation.',
-      'Authored coding problems for K3 CodeHuddle, an ICPC-style national-level contest with 500+ participants.',
+      'Authored coding problems for K3PC & K3 CodeHuddle, an ICPC-style national-level contest with 500+ participants.',
       'Coordinated monthly programming contests with formal constraint bounds and automated test case evaluation.',
       'Authored and validated original algorithmic problem suites with rigorous constraint bounds and formal edge cases.',
       'Fostered peer mentoring circles to break down complex data structure concepts into intuitive, step-by-step techniques.',
     ],
   },
   contestHighlight: {
-    title: "K3 CodeHuddle National Contest",
-    partner: 'K3 CodeHuddle',
+    title: "K3PC — K3 CodeHuddle National Contest",
+    partner: 'K3PC & K3 CodeHuddle',
     category: 'ICPC-Style National-Level Programming Contest',
     metrics: [
       {

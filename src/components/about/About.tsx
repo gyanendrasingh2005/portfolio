@@ -60,7 +60,7 @@ export const About: React.FC = () => {
           </p>
 
           <p className="font-sans text-sm sm:text-base text-[#aaa9a4] leading-relaxed max-w-xl">
-            As a Problem Setter at <strong className="text-[#f1eee8] font-medium">KIET Koders Korner (K3)</strong>, I have mentored 50+ students across 10+ DSA workshops, authored problem sets for <strong className="text-[#f1eee8] font-medium">K3 CodeHuddle</strong> (500+ participants), and solved 1,400+ algorithmic challenges. For me, clean code is the discipline needed to build dependable software.
+            As President at <strong className="text-[#f1eee8] font-medium">KIET Koders Korner (K3)</strong>, I have mentored 50+ students across 10+ DSA workshops, authored problem sets for <strong className="text-[#f1eee8] font-medium">K3PC &amp; K3 CodeHuddle</strong> (500+ participants), and solved 1,400+ algorithmic challenges. For me, clean code is the discipline needed to build dependable software.
           </p>
 
           <div className="pt-4 flex flex-wrap items-center gap-6">

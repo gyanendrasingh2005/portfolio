@@ -41,7 +41,7 @@ export const BRAND = {
     "Full-Stack Web Development (MERN / TypeScript)",
     "Competitive Programming (LeetCode 1875+, Codeforces 1215)",
     "System Design & Isolated Execution (Docker)",
-    "Technical Leadership & Community (K3 Problem Setter)",
+    "Technical Leadership & Community (K3 President)",
   ],
   socials: [
     {
